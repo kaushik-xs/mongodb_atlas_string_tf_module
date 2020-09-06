@@ -1,0 +1,1 @@
+# mongodb_atlas_string_tf_module
